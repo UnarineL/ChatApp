@@ -1,5 +1,6 @@
 # ChatApp
 
-## Source Code
+## Source Code Files
 
-src
+### Directory:
+WebChatApp/chatapp/src/main/java/com/chatapp/chatapp
